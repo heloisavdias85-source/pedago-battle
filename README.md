@@ -36,6 +36,8 @@ Após a instalação, aguarde o terminal finalizar o processo. Com o Pygame inst
                 VITOR WILLIAM DA SILVA GARCIA
                 HELOISA VIEIRA DIAS DOS SANTOS
 
+##OBS: A versão para celular a gente não conseguiu subir ainda.
+
 ## Observações:
  A ideia é ir aos poucos colocando mais funcionalidades no jogo. Como: mais fases, uma história passando no jogo, hospital, etc.
 Temos a intenção de enviar o projeto para a FETEPS(Feira Tecnológica do Centro Paula Souza) no ano que vem e por isso desejamos acrescentar mais funcionalidades.
