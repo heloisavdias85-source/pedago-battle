@@ -1,0 +1,12 @@
+.buildozer/
+.pytest_cache/
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+.env
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
