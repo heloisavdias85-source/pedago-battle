@@ -5,7 +5,7 @@ O objetivo é fazer com que crianças que estão entre o fundamental 1 e 2 apren
 O jogo possui uma tela inicial, um tutorial que explica seu funcionamento e uma tela para a escolha dos Pedagos. Os Pedagos são personagens inspirados em Pokémon e representam diferentes áreas do conhecimento, como Humanas e Exatas. Após escolher uma dupla de Pedagos, o jogador é levado para a batalha, na qual precisa responder perguntas dentro de um tempo determinado. As perguntas possuem diferentes níveis de dificuldade e, dependendo do nível da pergunta acertada, o ataque realizado fica mais forte. O objetivo é vencer a batalha utilizando os ataques para derrotar o adversário. Ao final da partida, é exibida uma tela de vitória caso o jogador vença ou uma tela de derrota caso perca.
 
 ## Tecnologias utilizadas: 
-Usamos Python 3.13, Pygame e PyTMX.
+projeto foi desenvolvido utilizando Python 3.13, juntamente com as bibliotecas Pygame e PyTMX. Para executar o jogo corretamente, é necessário utilizar a versão 3.13 . Também é necessário instalar o PyTMX pelo terminal do VS Code utilizando o comando pip install pytmx.
 
 ## Como executar: 
 Abrir o VS Code, selecionar o Python 3.13 como interpretador, instalar o Pygame e o PyTMX e abrir o arquivo que foi baixado.
