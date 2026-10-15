@@ -8,7 +8,7 @@ O jogo possui uma tela inicial, um tutorial que explica seu funcionamento e uma 
 projeto foi desenvolvido utilizando Python 3.13, juntamente com as bibliotecas Pygame e PyTMX. Para executar o jogo corretamente, é necessário utilizar a versão 3.13 . Também é necessário instalar o PyTMX pelo terminal do VS Code utilizando o comando pip install pytmx.
 
 ## Como executar: 
-Abrir o VS Code, selecionar o Python 3.13 como interpretador, instalar o Pygame e o PyTMX e abrir o arquivo que foi baixado.
+Abrir o VS Code, selecionar o Python 3.13 como interpretador, instalar o Pygame e o PyTMX e abrir o arquivo que foi baixado. Ou pode ser baixado o exe, que já abre direito no jogo, vai ter uma tela perguntando se você confia, pode confiar, é seguro o arquivo.
 
 
 ## Como instalar o Pygame
