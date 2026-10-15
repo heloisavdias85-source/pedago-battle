@@ -33,7 +33,7 @@ Após a instalação, aguarde o terminal finalizar o processo. Com o Pygame inst
 
 ## Integrantes: 
                 NÍCOLAS JOSÉ MORAES BOVINO
-                VITOR WILLIAM DAA SILVA GARCIA
+                VITOR WILLIAM DA SILVA GARCIA
                 HELOISA VIEIRA DIAS DOS SANTOS
 
 ## Observações:
